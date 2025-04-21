@@ -1,0 +1,1 @@
+{"root":["./gitnotes/vite.config.ts","./gitnotes/src/app.tsx","./gitnotes/src/global.d.ts","./gitnotes/src/main.tsx","./gitnotes/src/vite-env.d.ts","./gitnotes/src/components/googleauth.tsx","./src/index.ts","./src/config/supabase.ts","./src/controllers/auth.controller.ts","./src/routes/auth.routes.ts"],"errors":true,"version":"5.8.3"}
