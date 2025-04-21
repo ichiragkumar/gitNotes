@@ -1,4 +1,3 @@
-Here's a `README.md` file that documents your **GitNote** app idea — including the purpose, high-level flow, technical overview, and a clear development roadmap to help you build it step by step.
 
 ---
 
